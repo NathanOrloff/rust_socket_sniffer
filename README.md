@@ -4,7 +4,7 @@ build using `cargo build`
 
 ```
 Usage:
-  ./target/debug/rust_sniffer [OPTIONS]
+  sudo ./target/debug/rust_sniffer [OPTIONS]
 
 Network sniffer arguments
 
